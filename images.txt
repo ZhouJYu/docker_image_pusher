@@ -1,2 +1,2 @@
 
-qwenllm/qwenvl:2.5-cu121
+vllm/vllm-openai:v0.7.2
